@@ -1,4 +1,4 @@
-👋 Ciao!  I'm a brazilian UI/Motion Designer currently learning Front-End Development<br>
+👋 Ciao!  I'm a brazilian UI/Motion Designer currently learning Front-End Development. <br>
 👨‍💻 Building Interfaces, Web Apps and exploring new tech. Let's code something awesome!
 
 ### 🔨 Languages and Tools:
