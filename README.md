@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### 🔨 Languages and Tools:
-https://github.com/tandpfun/skill-icons/raw/main/icons/XD.svg
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+
+<a href="https://github.com/tandpfun/skill-icons/raw/main/icons/XD.svg"  height="42px"/> </a> 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=correlucas)](https://github.com/anuraghazra/github-readme-stats)
